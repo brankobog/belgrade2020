@@ -10,7 +10,11 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.1.0",
+    "canvas": "^2.6.0",
     "core-js": "^3.4.3",
+    "fibers": "^4.0.2",
+    "jquery": "^3.4.1",
+    "sass": "^1.23.7",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.3.0",
